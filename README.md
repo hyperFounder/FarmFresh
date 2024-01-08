@@ -17,7 +17,7 @@ Farmers can create profiles and showcase their farming practices, product portfo
 
 ### Subsystems:
 
-- Dynamic Product Listings: Farmers can update product details, including descriptions, pricing, availability, images, and labels.
+- Product Listings: Farmers can update product details, including descriptions, pricing, availability, images, and labels.
 - Event Calendar: Centralized calendar displaying upcoming events organized by farmers.
 - Delivery Coordination: Real-time tracking and coordination with eco-friendly delivery partners.
 
