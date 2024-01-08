@@ -5,6 +5,9 @@ Welcome to FarmFresh, an innovative software engineering project developed durin
 ## Project Overview
 FarmFresh is designed to redefine the agricultural ecosystem by providing a platform where farmers can showcase their products and practices. This empowers consumers to make informed, eco-conscious choices, contributing to a more sustainable and interconnected food ecosystem.
 
+**Project Video:**
+[Watch FarmFresh Video](https://www.youtube.com/watch?v=o1qJMWx1NR4&ab_channel=RyanRibeiro)
+
 ## Key Features
 - **Product Listings:** A customer can explore a wide range of products including fruits, vegetables,
 poultry and plants.
