@@ -17,6 +17,4 @@ poultry and plants.
 - **Seasonal Availability:** Customizable labels for "In Season" and "Out of Season", Historical availability preview and detailed dashboard
 - **Feedback and Ratings:** Integration with customer accounts for tracking contributions
 
-## Copyright
-
-© 2024 Software Engineering Group 62. All Rights Reserved.
+Software Engineering Group 62.
